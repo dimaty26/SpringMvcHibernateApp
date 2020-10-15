@@ -1,0 +1,8 @@
+com\zmeevsky\springmvc\dao\UserDaoImpl.class
+com\zmeevsky\springmvc\config\DataConfig.class
+com\zmeevsky\springmvc\dao\UserDao.class
+com\zmeevsky\springmvc\service\UserService.class
+com\zmeevsky\springmvc\entity\User.class
+com\zmeevsky\springmvc\controller\UserController.class
+com\zmeevsky\springmvc\config\AppInitializer.class
+com\zmeevsky\springmvc\service\UserServiceImpl.class
